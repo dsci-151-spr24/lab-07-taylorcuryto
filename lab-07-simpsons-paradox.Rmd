@@ -1,5 +1,6 @@
 ---
 title: "Lab 07 - Smokers in Whickham"
+author: "Taylor Curyto"
 subtitle: "Simpson's paradox"
 output: 
   tufte::tufte_html:
